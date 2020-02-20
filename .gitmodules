@@ -19,3 +19,6 @@
 [submodule "dataModel.UrbanMobility"]
 	path = dataModel.UrbanMobility
 	url = https://github.com/smart-data-models/dataModel.UrbanMobility.git
+[submodule "dataModel.Weather"]
+	path = dataModel.Weather
+	url = https://github.com/smart-data-models/dataModel.Weather.git
