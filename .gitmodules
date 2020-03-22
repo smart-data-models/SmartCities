@@ -7,9 +7,6 @@
 [submodule "dataModel.WasteManagement"]
 	path = dataModel.WasteManagement
 	url = https://github.com/smart-data-models/dataModel.WasteManagement.git
-[submodule "dataModel.ParksAndGardens"]
-	path = dataModel.ParksAndGardens
-	url = https://github.com/smart-data-models/dataModel.ParksAndGardens.git
 [submodule "dataModel.UrbanMobility"]
 	path = dataModel.UrbanMobility
 	url = https://github.com/smart-data-models/dataModel.UrbanMobility.git
