@@ -22,3 +22,6 @@
 [submodule "dataModel.Building"]
 	path = dataModel.Building
 	url = https://github.com/smart-data-models/dataModel.Building.git
+[submodule "dataModel.Parking"]
+	path = dataModel.Parking
+	url = https://github.com/smart-data-models/dataModel.Parking.git
