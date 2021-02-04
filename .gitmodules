@@ -25,3 +25,6 @@
 [submodule "dataModel.Ports"]
 	path = dataModel.Ports
 	url = https://github.com/smart-data-models/dataModel.Ports.git
+[submodule "dataModel.Streetlighting"]
+	path = dataModel.Streetlighting
+	url = https://github.com/smart-data-models/dataModel.Streetlighting.git
