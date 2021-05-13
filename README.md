@@ -29,3 +29,15 @@ Imagine what could happen if we were able to effectively leverage and manage mor
 We need to move beyond the 1% to create cleaner data and leverage it to drive future decisions for cities, and this means learning much more about how citizens experience their cities. To achieve this, TM Forum and FIWARE launched the Front Runner Initiative, which seeks to harmonize data models across Smart Cities and with the Data Models of TM Forum which have been deployed globally.
 
 By agreeing across different communities, the common definition of smart city data models, this will empower innovators and companies to develop solutions that adhere to this common definition and ultimately help enable interoperability of services.
+
+It compiles the subjects of:
+- [dataModel.Building](https://github.com/smart-data-models/dataModel.Building/)
+- [dataModel.Parking](https://github.com/smart-data-models/dataModel.Parking/)
+- [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens/)
+- [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest/)
+- [dataModel.Ports](https://github.com/smart-data-models/dataModel.Ports/)
+- [dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting/)
+- [dataModel.Transportation](https://github.com/smart-data-models/dataModel.Transportation/)
+- [dataModel.UrbanMobility](https://github.com/smart-data-models/dataModel.UrbanMobility/)
+- [dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement/)
+- [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather/)
