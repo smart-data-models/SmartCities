@@ -25,9 +25,6 @@
 [submodule "dataModel.Weather"]
 	path = dataModel.Weather
 	url = https://github.com/smart-data-models/dataModel.Weather.git
-[submodule "dataModel.OSLO"]
-	path = dataModel.OSLO
-	url = https://github.com/smart-data-models/dataModel.OSLO.git
 [submodule "dataModel.Building"]
 	path = dataModel.Building
 	url = https://github.com/smart-data-models/dataModel.Building.git
