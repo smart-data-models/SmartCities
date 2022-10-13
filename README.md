@@ -34,22 +34,22 @@ By agreeing across different communities, the common definition of smart city da
 
 ## List of subjects
 
-* [dataModel.UrbanMobility](https://github.com/smart-data-models/dataModel.UrbanMobility)
-* [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens)
-* [dataModel.Parking](https://github.com/smart-data-models/dataModel.Parking)
-* [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
-* [dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement)
-* [dataModel.Transportation](https://github.com/smart-data-models/dataModel.Transportation)
-* [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)
-* [dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)
 * [dataModel.Building](https://github.com/smart-data-models/dataModel.Building)
-* [dataModel.Ports](https://github.com/smart-data-models/dataModel.Ports)
-* [dataModel.WifiNetwork](https://github.com/smart-data-models/dataModel.WifiNetwork)
 * [dataModel.GBFS](https://github.com/smart-data-models/dataModel.GBFS)
 * [dataModel.OSLO](https://github.com/smart-data-models/dataModel.OSLO)
-If you want to be update you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
-You can also rise a issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
+* [dataModel.Parking](https://github.com/smart-data-models/dataModel.Parking)
+* [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens)
+* [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)
+* [dataModel.Ports](https://github.com/smart-data-models/dataModel.Ports)
+* [dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)
+* [dataModel.Transportation](https://github.com/smart-data-models/dataModel.Transportation)
+* [dataModel.UrbanMobility](https://github.com/smart-data-models/dataModel.UrbanMobility)
+* [dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement)
+* [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
+* [dataModel.WifiNetwork](https://github.com/smart-data-models/dataModel.WifiNetwork)
+## SupportIf you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
+You can also rise an issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
 You can contribute by using the [contribution manual](https://bit.ly/contribution_manual) on the [incubated repository](https://github.com/smart-data-models/incubated/tree/master)
-finally you can book a live support session in [this service](https://calendly.com/smartdatamodels)
-follow us on [Twitter](https://twitter.com/smartdatamodels) and [Linkedin](https://www.linkedin.com/company/72642317/)
+Finally you can book a live support session in [this service](https://calendly.com/smartdatamodels)
+Follow us on [Twitter](https://twitter.com/smartdatamodels) and [Linkedin](https://www.linkedin.com/company/72642317/)
 
