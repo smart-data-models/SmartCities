@@ -10,11 +10,7 @@ The Reference Architecture and Data Models use the FIWARE NGSI API and TM Forum 
 
 Combined with TM Forum Open APIs, data publication platforms can support organizations to realise the potential of real-time (or right-time) open data, easing development of innovative solutions by third parties. In addition, organizations can evolve their current data sharing policies towards a vision which, shared with other organizations, brings support to a Data Economy. This way, the proposed Reference Architecture is ready to solve the needs of organizations today while future-proofing for tomorrow’s requirements.
 
-This GitHub organization structure contains JSON Schemas and documentation on harmonized Data Models for different Smart Domains, starting with Smart Cities. The following repositories are available:
-
-    data-models repository which is an umbrella repository that contains all the Data Models from different verticals (e.g., Parking, Street lighting, etc.). This Repository does not admit Pull Requests.
-
-    For each Vertical there is a Repository containing the Data Models related to that vertical. These repositories do admit pull requests.
+This GitHub organization structure contains JSON Schemas and documentation on harmonized Data Models for different Smart Domains, starting with Smart Cities. 
 
 ## Front-runner Smart Cities program
 
