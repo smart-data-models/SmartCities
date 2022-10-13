@@ -47,7 +47,8 @@ By agreeing across different communities, the common definition of smart city da
 * [dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement)
 * [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
 * [dataModel.WifiNetwork](https://github.com/smart-data-models/dataModel.WifiNetwork)
-## SupportIf you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
+## Support
+If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
 You can also rise an issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
 You can contribute by using the [contribution manual](https://bit.ly/contribution_manual) on the [incubated repository](https://github.com/smart-data-models/incubated/tree/master)
 Finally you can book a live support session in [this service](https://calendly.com/smartdatamodels)
