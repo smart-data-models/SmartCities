@@ -1,4 +1,6 @@
-# SmartCities
+[![Smart Data Models](https://smartdatamodels.org/wp-content/uploads/2022/01/SmartDataModels_logo.png "Logo")](https://smartdatamodels.org)
+[Open License](https://github.com/smart-data-models//SmartCities/blob/master//LICENSE.md)
+# SmartCities
 
 The availability of widely adopted (de-facto standard) information models is key for creating a global digital single market of interoperable and replicable (portable) IoT-enabled smart solutions in multiple domains not only for smart cities but also for smart agrifood, smart utilities, smart industry, …). Such models provide an essential element in the common technical ground needed for standards-based open innovation and procurement.
 
@@ -30,14 +32,19 @@ We need to move beyond the 1% to create cleaner data and leverage it to drive fu
 
 By agreeing across different communities, the common definition of smart city data models, this will empower innovators and companies to develop solutions that adhere to this common definition and ultimately help enable interoperability of services.
 
-It compiles the subjects of:
-- [dataModel.Building](https://github.com/smart-data-models/dataModel.Building/)
-- [dataModel.Parking](https://github.com/smart-data-models/dataModel.Parking/)
-- [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens/)
-- [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest/)
-- [dataModel.Ports](https://github.com/smart-data-models/dataModel.Ports/)
-- [dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting/)
-- [dataModel.Transportation](https://github.com/smart-data-models/dataModel.Transportation/)
-- [dataModel.UrbanMobility](https://github.com/smart-data-models/dataModel.UrbanMobility/)
-- [dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement/)
-- [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather/)
+## List of subjects
+
+* [dataModel.UrbanMobility](https://github.com/smart-data-models/dataModel.UrbanMobility)
+* [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens)
+* [dataModel.Parking](https://github.com/smart-data-models/dataModel.Parking)
+* [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
+* [dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement)
+* [dataModel.Transportation](https://github.com/smart-data-models/dataModel.Transportation)
+* [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)
+* [dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)
+* [dataModel.Building](https://github.com/smart-data-models/dataModel.Building)
+* [dataModel.Ports](https://github.com/smart-data-models/dataModel.Ports)
+* [dataModel.WifiNetwork](https://github.com/smart-data-models/dataModel.WifiNetwork)
+* [dataModel.GBFS](https://github.com/smart-data-models/dataModel.GBFS)
+* [dataModel.OSLO](https://github.com/smart-data-models/dataModel.OSLO)
+
