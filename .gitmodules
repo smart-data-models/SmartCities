@@ -28,3 +28,6 @@
 [submodule "dataModel.Streetlighting"]
 	path = dataModel.Streetlighting
 	url = https://github.com/smart-data-models/dataModel.Streetlighting.git
+[submodule "dataModel.Transportation"]
+	path = dataModel.Transportation
+	url = https://github.com/smart-data-models/dataModel.Transportation.git
