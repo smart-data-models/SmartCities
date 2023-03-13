@@ -31,3 +31,6 @@
 [submodule "dataModel.UrbanPlanning"]
 	path = dataModel.UrbanPlanning
 	url = https://github.com/smart-data-models/dataModel.UrbanPlanning.git
+[submodule "dataModel.WasteManagement"]
+	path = dataModel.WasteManagement
+	url = https://github.com/smart-data-models/dataModel.WasteManagement.git
