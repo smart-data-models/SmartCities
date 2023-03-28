@@ -37,6 +37,7 @@ By agreeing across different communities, the common definition of smart city da
 * [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens)
 * [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)
 * [dataModel.Ports](https://github.com/smart-data-models/dataModel.Ports)
+* [dataModel.S4BLDG](https://github.com/smart-data-models/dataModel.S4BLDG)
 * [dataModel.Streetlighting](https://github.com/smart-data-models/dataModel.Streetlighting)
 * [dataModel.Transportation](https://github.com/smart-data-models/dataModel.Transportation)
 * [dataModel.UrbanMobility](https://github.com/smart-data-models/dataModel.UrbanMobility)
