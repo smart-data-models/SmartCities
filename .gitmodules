@@ -34,3 +34,6 @@
 [submodule "dataModel.Parking"]
 	path = dataModel.Parking
 	url = https://github.com/smart-data-models/dataModel.Parking.git
+[submodule "dataModel.ParksAndGardens"]
+	path = dataModel.ParksAndGardens
+	url = https://github.com/smart-data-models/dataModel.ParksAndGardens.git
