@@ -1,6 +1,3 @@
-[submodule "dataModel.UrbanMobility"]
-	path = dataModel.UrbanMobility
-	url = https://github.com/smart-data-models/dataModel.UrbanMobility.git
 [submodule "dataModel.UrbanPlanning"]
 	path = dataModel.UrbanPlanning
 	url = https://github.com/smart-data-models/dataModel.UrbanPlanning.git
