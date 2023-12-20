@@ -1,6 +1,3 @@
-[submodule "dataModel.S4BLDG"]
-	path = dataModel.S4BLDG
-	url = https://github.com/smart-data-models/dataModel.S4BLDG.git
 [submodule "dataModel.Streetlighting"]
 	path = dataModel.Streetlighting
 	url = https://github.com/smart-data-models/dataModel.Streetlighting.git
