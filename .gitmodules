@@ -34,3 +34,6 @@
 [submodule "dataModel.Ports"]
 	path = dataModel.Ports
 	url = https://github.com/smart-data-models/dataModel.Ports.git
+[submodule "dataModel.S4BLDG"]
+	path = dataModel.S4BLDG
+	url = https://github.com/smart-data-models/dataModel.S4BLDG.git
