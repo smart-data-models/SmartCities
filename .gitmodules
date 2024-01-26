@@ -37,3 +37,6 @@
 [submodule "dataModel.GBFS"]
 	path = dataModel.GBFS
 	url = https://github.com/smart-data-models/dataModel.GBFS.git
+[submodule "dataModel.Building"]
+	path = dataModel.Building
+	url = https://github.com/smart-data-models/dataModel.Building.git
