@@ -40,3 +40,6 @@
 [submodule "dataModel.Weather"]
 	path = dataModel.Weather
 	url = https://github.com/smart-data-models/dataModel.Weather.git
+[submodule "dataModel.ZEB"]
+	path = dataModel.ZEB
+	url = https://github.com/smart-data-models/dataModel.ZEB.git
