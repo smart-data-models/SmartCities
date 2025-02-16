@@ -22,6 +22,7 @@ Data Models play a crucial role because they define the harmonised representatio
 * [dataModel.WasteManagement](https://github.com/smart-data-models/dataModel.WasteManagement)
 * [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
 * [dataModel.WifiNetwork](https://github.com/smart-data-models/dataModel.WifiNetwork)
+* [dataModel.ZEB](https://github.com/smart-data-models/dataModel.ZEB)
 ## Support
 If you want to be updated you can subscribe to the mail list (one message a week) in this [link](https://smartdatamodels.org/index.php/subscriptions-page/)
 You can also rise an issue on this [link](https://smartdatamodels.org/index.php/submit-an-issue-2/)
